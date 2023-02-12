@@ -55,14 +55,14 @@
 						<!-- <li>
 							<a href="mailto:sony@sony-ak.com" class="button large icon solid fa-at">E-mail</a>
 						</li> -->
-						<li>
+						<!-- <li>
 							<a
 								target="_blank"
 								rel="noreferrer"
 								href="https://www.google.com/search?q=what+is+full+stack+engineer"
 								class="button large icon solid fa-cubes">Full-Stack?</a
 							>
-						</li>
+						</li> -->
                         <li>
 							<a
 								target="_blank"
