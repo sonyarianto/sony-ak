@@ -3,10 +3,10 @@
 </script>
 
 <svelte:head>
-	<title>Sony AK</title>
+	<title>Sony AK a.k.a Sony Arianto Kurniawan</title>
 	<meta
 		name="description"
-		content="Sony AK is a full-stack engineer living in Jakarta, Indonesia."
+		content="Sony AK is a full-stack engineer and system integrator living in Jakarta, Indonesia."
 	/>
 	{#if !dev}
 		<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -40,7 +40,7 @@
 						</div>
 					</header>
 					<h2>Hi. I'm Sony AK.</h2>
-					<p>Principal Full-Stack Engineer</p>
+					<p>Principal Full-Stack Engineer, System Integrator</p>
 				</div>
 				<div class="col-5 col-12-medium">
 					<ul>
@@ -63,7 +63,7 @@
 								class="button large icon solid fa-cubes">Full-Stack?</a
 							>
 						</li> -->
-                        <li>
+						<li>
 							<a
 								target="_blank"
 								rel="noreferrer"
@@ -71,7 +71,7 @@
 								class="button large icon brands fa-youtube">BLJ</a
 							>
 						</li>
-                        <li>
+						<li>
 							<a
 								target="_blank"
 								rel="noreferrer"
